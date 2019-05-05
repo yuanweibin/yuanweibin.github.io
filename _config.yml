@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "宾远为","yuanweibin","yuanwei","bin"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -86,7 +86,7 @@ author:
   location         : "Hefei, China"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/?oi=gsb&hl=zh-CN"
   email            : "bbb@mail.ustc.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yuanwei_Bin"
   uri              :
