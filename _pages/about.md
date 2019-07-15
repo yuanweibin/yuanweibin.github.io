@@ -17,7 +17,7 @@ redirect_from:
 
 2019年，获得研究生推荐免试资格，即将前往[北京大学](https://www.pku.edu.cn)工学院攻读博士学位。目前研究方向为[流体力学](https://zh.wikipedia.org/wiki/流体力学)。
 
-更多的内容可以[点击](http://localhost:4000/cv/)查看我的个人履历。
+更多的内容可以[点击](http://yuanweibin.github.io/cv/)查看我的个人履历。
 
 ## 这个网页
 
