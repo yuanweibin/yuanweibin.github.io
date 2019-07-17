@@ -21,11 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-<<<<<<< HEAD
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-=======
-  provider               : "disqus" # false (default), , "discourse", "facebook", "google-plus", "staticman", "custom"
->>>>>>> c9239bdeac4603472468cf17465b3dc1622ae0d3
   disqus:
     shortname            : yuanweibin
   discourse:
