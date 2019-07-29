@@ -19,9 +19,15 @@ redirect_from:
 
 更多的内容可以[点击](http://yuanweibin.github.io/cv/)查看我的个人履历。
 
-## 这个网页
+## 分页相关
 
-本网页完全基于[academicpages template](https://github.com/academicpages/academicpages.github.io)和[GitHub pages](https://pages.github.com)实现。目前我还没有弄清楚代码细节，所以暂时先推出个半成品。
+Publications页，用于分享我未来发表的学术文章。
+
+Blog Posts页，看本人心情更新工作进度or内容or闲谈。
+
+CV页，为本人的个人履历。
+
+Download页，会总结我在Blog中分享一些文件。
 
 ## 个人社交软件
 
@@ -30,3 +36,7 @@ redirect_from:
 * QQ    : 617520634
 * Wechat: 19956572551
 * [知乎](https://www.zhihu.com/people/bin-yuan-wei/activities)
+
+## 这个网页
+
+本网页完全基于[academicpages template](https://github.com/academicpages/academicpages.github.io)和[GitHub pages](https://pages.github.com)实现。目前我还没有弄清楚代码细节，所以暂时先推出个半成品。
