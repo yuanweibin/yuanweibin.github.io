@@ -34,7 +34,7 @@ Download页，会总结我在Blog中分享一些文件。
 除了边栏列举的软件外，您还可以选择以下的方式与我取得联系
 * Phone : 19956572551
 * QQ    : 617520634
-* Wechat: 19956572551
+* Wechat: ![QRcode](https://github.com/yuanweibin/yuanweibin.github.io/images/wechatQRcode.jpg)
 * [知乎](https://www.zhihu.com/people/bin-yuan-wei/activities)
 
 ## 评论功能
