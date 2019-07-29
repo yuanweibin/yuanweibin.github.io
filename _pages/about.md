@@ -37,6 +37,12 @@ Download页，会总结我在Blog中分享一些文件。
 * Wechat: 19956572551
 * [知乎](https://www.zhihu.com/people/bin-yuan-wei/activities)
 
+## 评论功能
+
+我使用的为Disqus评论托管平台，该平台的加载似乎需要科学上网。所以如果您长时间未加载出评论插件，请不要担心是您的网络问题。
+
 ## 这个网页
 
 本网页完全基于[academicpages template](https://github.com/academicpages/academicpages.github.io)和[GitHub pages](https://pages.github.com)实现。目前我还没有弄清楚代码细节，所以暂时先推出个半成品。
+
+网站为开源网站，源代码可参见我的[github仓库](https://github.com/yuanweibin/yuanweibin.github.io)。
