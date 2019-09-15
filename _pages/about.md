@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "关于本人"
+title: "YuanweiBin's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from:
