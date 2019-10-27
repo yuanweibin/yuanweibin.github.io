@@ -16,7 +16,7 @@ Education
 
 > Double Degree in Computer Science
 
-* Ph.D in Aerospace Engineering, Peking University, 2019 (expected)
+* Ph.D. in Aerospace Engineering, Peking University, 2019 (expected)
 
 Individual Award
 ======

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuanwei Bin"
 title_separator          : "-"
 name                     : &name "Yuanwei Bin"
-description              : &description "PhD Student"
+description              : &description "Ph.D. Student"
 url                      : https://yuanweibin.github.io #http://127.0.0.1:4000/ #  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuanweibin/yuanweibin.github.io"
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : "BeaN_YW"
   vine             :
-  weibo            : #"/1941492854/profile?rightmod=1&wvr=6&mod=personinfo" 不想分享我的傻叼微博
+  weibo            : #不想分享我的傻叼微博
   xing             :
   youtube          :
   wikipedia        :
