@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Thermal Science and Energy Engineering, University of Science and Techlogy of China, 2015
+* B.S. in Thermal Science and Energy Engineering, University of Science and Techlogy of China, 2019
 > GPA 3.69/4.30, Rank No.2/33
 
 > Double Degree in Computer Science
 
-* Ph.D. in Aerospace Engineering, Peking University, 2019 (expected)
+* Ph.D. candidate in Aerospace Engineering, Peking University (expected)
 
 Individual Award
 ======
@@ -49,6 +49,11 @@ Work experience
     * University of Science and Techlogy of China
     * Course: Calculation Method
     * Supervisor: Prof. Xianjin Chen
+    
+* Fall 2019: Teaching Assistant
+    * Peking University
+    * Course: Advanced Mathematics
+    * Supervisor: Prof. Zuoli Xiao
 
 Skills
 ======
@@ -61,6 +66,8 @@ Skills
 * LaTeX
 * AutoCAD
 * SolidWorks
+* OpenFoam
+* PUA
 
 Publications
 ======
