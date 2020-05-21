@@ -10,10 +10,8 @@ redirect_from:
 
 ## Introduction
 
-Welcome to my homepage! I'm Yuanwei Bin, a PhD candidate major in Aerospace Engineering in School of Engineering, Peking University, China. My re
-I acquire my bachelor degree 
-2015年，于[中国科学技术大学](https://www.ustc.edu.cn/
-)热科学和能源工程系攻读学士学位。期间在大二下学期前往[台湾清华大学](https://www.nthu.edu.tw)开展为期半年的交换活动。
+Welcome to my homepage! I'm Yuanwei Bin, a PhD candidate major in Aerospace Engineering in School of Engineering, Peking University, China. My research focuses on XXXXXXXXXX
+I acquired my bachelor's degree in 热科学和能源工程系, and 计算机专业辅修学位, University of Science and Technology of China in 2019. During 2016-2017, I 前往[台湾清华大学](https://www.nthu.edu.tw)开展为期半年的交换活动。
 
 
 2019年，得到中国科学技术大学热科学和能源工程系工学学士学位，计算机专业辅修学位，毕业成绩为热科学和能源工程系第2名/33人，并荣获中国科学技术大学优秀毕业生称号。并于同年获得研究生推荐免试资格，前往[北京大学](https://www.pku.edu.cn)工学院攻读博士学位。目前研究方向为[可压缩湍流计算模拟](https://zh.wikipedia.org/wiki/流体力学)。
