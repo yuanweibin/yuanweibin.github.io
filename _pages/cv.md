@@ -58,7 +58,7 @@ Work experience
 Skills
 ======
 * Matlab
-* programming Language
+* Programming Language
   * C
   * C++
   * Fortran
