@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-## 基本信息
+## Introduction
 
-我叫宾远为，1998年11月11日出生于广西省[桂林市](https://zh.wikipedia.org/wiki/桂林市)。我的初中为[桂林市第一中学](http://www.gxglyz.com),高中就读于[桂林市第十八中学](http://www.gl18.com)。
-
+Welcome to my homepage! I'm Yuanwei Bin, a PhD candidate major in Aerospace Engineering in School of Engineering, Peking University, China. My re
+I acquire my bachelor degree 
 2015年，于[中国科学技术大学](https://www.ustc.edu.cn/
 )热科学和能源工程系攻读学士学位。期间在大二下学期前往[台湾清华大学](https://www.nthu.edu.tw)开展为期半年的交换活动。
 
