@@ -14,9 +14,9 @@ Education
 * B.S. in Thermal Science and Energy Engineering, University of Science and Techlogy of China, 2019
 > GPA 3.69/4.30, Rank No.2/33
 
-> Double Degree in Computer Science
+* Minor Degree in Computer Science, University of Science and Techlogy of China, 2019
 
-* Ph.D. candidate in Aerospace Engineering, Peking University (expected)
+* Ph.D. candidate in Aerospace Engineering, Peking University
 
 Individual Award
 ======
@@ -67,7 +67,7 @@ Skills
 * AutoCAD
 * SolidWorks
 * OpenFoam
-* PUA
+* ~~***PUA***~~
 
 Publications
 ======
