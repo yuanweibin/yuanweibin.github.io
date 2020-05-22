@@ -18,13 +18,13 @@ See more in my [CV](http://yuanweibin.github.io/cv/).
 
 ## Sub-page
 
-Publications.
+[Publications](https://yuanweibin.github.io/publications/)
 
-Blog Posts.
+[Blog Posts](https://yuanweibin.github.io/year-archive/)
 
-CV.
+[CV](https://yuanweibin.github.io/cv/)
 
-Download.
+[Download](https://yuanweibin.github.io/download/)
 
 ## Contact me
 
