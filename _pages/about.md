@@ -30,7 +30,7 @@ See more in my [CV](http://yuanweibin.github.io/cv/).
 
 * Phone : 19956572551
 * QQ    : 617520634
-* Wechat: ![QRcode](http://yuanweibin.github.io/images/wechatQRcode.jpg)
+* Wechat: YuanweiBin_PKU
 
 
 
