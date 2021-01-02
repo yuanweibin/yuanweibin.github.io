@@ -67,7 +67,6 @@ Skills
 * AutoCAD
 * SolidWorks
 * OpenFoam
-* ~~***PUA***~~
 
 Publications
 ======
