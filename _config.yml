@@ -103,15 +103,15 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7722-7885"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "BeaN_YW"
+  twitter          :
   vine             :
-  weibo            : #不想分享我的傻叼微博
+  weibo            :
   xing             :
   youtube          :
   wikipedia        :
