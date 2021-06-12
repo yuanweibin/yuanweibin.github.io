@@ -26,11 +26,5 @@ See more in my [CV](http://yuanweibin.github.io/cv/).
 
 [Download](https://yuanweibin.github.io/download/)
 
-## Contact me
-
-* Phone : 19956572551
-* QQ    : 617520634
-* Wechat: YuanweiBin_PKU
-
 
 
