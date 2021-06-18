@@ -11,7 +11,7 @@ redirect_from:
 ## Introduction
 
 Welcome to my homepage! I'm Yuanwei Bin, a PhD candidate major in Aerospace Engineering in School of Engineering, Peking University, China. My research focuses on [compressible turbulence calculation](https://zh.wikipedia.org/wiki/流体力学).
-I acquired my bachelor's degree in thermal science and energe engineering, and a minor degree in computer science, University of Science and Technology of China in 2019. During 2016-2017, I visited [National Tsinghua University](https://www.nthu.edu.tw) as an exchange student.
+I acquired my bachelor's degree in thermal science and energy engineering, and a minor degree in computer science, University of Science and Technology of China in 2019. During 2016-2017, I visited [National Tsinghua University](https://www.nthu.edu.tw) as an exchange student.
 
 
 See more in my [CV](http://yuanweibin.github.io/cv/).
