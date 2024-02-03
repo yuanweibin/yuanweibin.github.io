@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.ywbin.com/sitemap.xml
+Sitemap: https://yuanweibin.github.io/sitemap.xml
