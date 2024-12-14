@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Associated Professor, EIT
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ningbo, Zhejiang, China</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,13 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# Research Associated Professor
-
 I am currently a Research Associated Professor in the College of Engineering at the Eastern Institute of Technology, Ningbo. 
 My research focuses on fluid mechanics and data-driven computer-aided engineering, areas in which I strive to advance both theoretical understanding and practical applications.
 
-For more detailed information about my ongoing projects, please visit the [projects]{https://www.ywbin.com/projects/} page. 
-A comprehensive record of my publications can be found on the [publications]{https://www.ywbin.com/publications/} page, and my work is also listed on my [google scholar]{https://scholar.google.com/citations?user=czzz4XgAAAAJ&hl=en} profile.
+For more detailed information about my ongoing projects, please visit the [projects](https://www.ywbin.com/projects/) page. 
+A comprehensive record of my publications can be found on the [publications](https://www.ywbin.com/publications/) page, and my work is also listed on my [google scholar](https://scholar.google.com/citations?user=czzz4XgAAAAJ&hl=en) profile.
 
 ## Education
 
@@ -45,4 +41,4 @@ My work focuses on leveraging machine learning algorithms to enhance simulation 
 ## Contact
 
 I am always open to collaboration and discussion.
-You can reach me at [[ybin@eitech.edu.cn](mailto:ybin@eitech.edu.cn)].
+You can reach me at [ybin@eitech.edu.cn](mailto:ybin@eitech.edu.cn).
