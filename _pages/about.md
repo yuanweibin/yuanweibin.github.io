@@ -19,8 +19,30 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Research Associated Professor
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a Research Associated Professor in the College of Engineering at the Eastern Institute of Technology, Ningbo. 
+My research focuses on fluid mechanics and data-driven computer-aided engineering, areas in which I strive to advance both theoretical understanding and practical applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For more detailed information about my ongoing projects, please visit the [projects]{https://www.ywbin.com/projects/} page. 
+A comprehensive record of my publications can be found on the [publications]{https://www.ywbin.com/publications/} page, and my work is also listed on my [google scholar]{https://scholar.google.com/citations?user=czzz4XgAAAAJ&hl=en} profile.
+
+## Education
+
+* 2022 - 2024, **Visiting scholar**, Department of Mechanical Engineering, **The Pennsylvania State University**.
+* 2019 - 2024, **Doctor of Philosophy** in Mechanics, **Peking University**.
+* 2017 - 2017, **Exchange student**, Department of Energy and Power Engineering, **National Tsinghua University**.
+* 2015 - 2019, **Bachelor's degree** in Energy Engineering, **University of Science and Technology of China**.
+
+## Professional Career
+
+After completing my bachelor's degree, I pursued a Ph.D. in Mechanics at Peking University, where I delved into the tubulence simulation. 
+My time as a visiting scholar at The Pennsylvania State University allowed me to collaborate with Prof. Xiang Yang, further enhancing my research capabilities. 
+Currently, at the Eastern Institute of Technology, Ningbo, I am developing innovative AI-driven Computer-Aided Engineering (AI-CAE) solutions.
+These solutions aim to revolutionize industrial simulation by integrating artificial intelligence with traditional engineering simulation processes, potentially marking the next generation in this field. 
+My work focuses on leveraging machine learning algorithms to enhance simulation accuracy and efficiency, thereby supporting sustainable and optimized engineering practices.
+
+## Contact
+
+I am always open to collaboration and discussion.
+You can reach me at [[ybin@eitech.edu.cn](mailto:ybin@eitech.edu.cn)].
