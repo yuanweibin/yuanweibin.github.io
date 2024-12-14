@@ -5,7 +5,7 @@ permalink: /
 subtitle: Research Associated Professor, EIT
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -22,6 +22,12 @@ My research focuses on fluid mechanics and data-driven computer-aided engineerin
 
 For more detailed information about my ongoing projects, please visit the [projects](https://www.ywbin.com/projects/) page. 
 A comprehensive record of my publications can be found on the [publications](https://www.ywbin.com/publications/) page, and my work is also listed on my [google scholar](https://scholar.google.com/citations?user=czzz4XgAAAAJ&hl=en) profile.
+
+
+
+
+
+
 
 ## Education
 
