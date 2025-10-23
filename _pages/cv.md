@@ -3,10 +3,10 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
+nav_order: 1
 #cv_pdf: example_pdf.pdf
 cv_pdf: https://github.com/yuanweibin/mycv/raw/pdf/cv.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Short academic CV summarizing appointments, education, awards, publications, and skills.
 toc:
   sidebar: left
 ---
