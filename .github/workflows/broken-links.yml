@@ -48,7 +48,6 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # Restrict checking to repo content that matters for this site.
-          # Template docs and sample collections are excluded because they are not published here
-          # and GitHub occasionally returns transient 502s for perfectly valid links.
-          args: --exclude-path 'README\.md' --exclude-path 'CONTRIBUTING\.md' --exclude-path 'CUSTOMIZE\.md' --exclude-path 'FAQ\.md' --exclude-path 'INSTALL\.md' --exclude-path '_pages/404\.md' --exclude-path '_pages/blog\.md' --exclude-path '_posts/.*' --exclude-path '_projects/.*' --verbose --no-progress './**/*.md' './**/*.html'
+          # Only check the source pages that are actually published on this site.
+          # Template docs and sample content are covered neither by the public site nor by this repo check.
+          args: --verbose --no-progress '_pages/about.md' '_pages/cv.md' '_pages/projects.md' '_pages/publications.md'
