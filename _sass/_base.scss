@@ -4,6 +4,27 @@
 
 // Typography
 
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "IBM Plex Sans", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title,
+.navbar .navbar-brand,
+.cv .card-title {
+  font-family: "IBM Plex Serif", Georgia, "Times New Roman", serif;
+  letter-spacing: 0.01em;
+}
+
 p,
 h1,
 h2,
