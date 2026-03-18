@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Fluid dynamicist working on machine-learning-enabled simulation and industrial CFD
+subtitle: Fluid dynamics, machine learning, and scientific computing
 
 profile:
   align: right
@@ -21,40 +21,38 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Yuanwei Bin, a fluid dynamicist developing machine-learning-enabled tools for high-fidelity industrial simulation. I serve as Research Assistant Professor at the College of Engineering, Eastern Institute of Technology, Ningbo, and lead the AI Software Department at Tenfong Technology in Shenzhen. My work focuses on aerodynamic analysis, turbulence modeling, and reduced-complexity CFD workflows that let engineers move from expensive iterative studies to near real-time design feedback.
+<div class="about-landing">
+  <div class="about-welcome">Welcome</div>
 
-## Professional Appointments
+  <h2 class="about-heading">Hello, I'm Yuanwei Bin.</h2>
 
-- 2025--present: Director of AI Software Department, Tenfong Technology Co., Ltd., Shenzhen, China.
-- 2024--present: Research Assistant Professor, College of Engineering, Eastern Institute of Technology, Ningbo, China.
-- 2021--2023: Visiting Scholar, Flow Physics and Computational Research Lab (PI: Xiang I. A. Yang), The Pennsylvania State University, USA.
+  <p class="about-lead">
+    I am a fluid dynamicist working on machine-learning-enabled simulation for aerodynamics, turbulence modeling, and
+    industrial CFD. My goal is to make high-fidelity engineering analysis faster, more practical, and more useful in
+    real design workflows.
+  </p>
 
-## Education
+  <div class="about-actions">
+    <a class="about-action" href="/projects/">Explore projects</a>
+    <a class="about-action" href="/publications/">View publications</a>
+    <a class="about-action" href="/cv/">Open CV</a>
+  </div>
 
-- 2019--2024: Doctor of Philosophy degree in Mechanics, Peking University, Beijing, China (advisor: Yipeng Shi).
-- 2015--2019: Bachelor degree in Energy Engineering, University of Science and Technology of China, Hefei, China.
-- 2015--2019: Double degree in Computer Science, University of Science and Technology of China, Hefei, China.
-- 2017: Exchange student, National Tsing Hua University, Hsinchu, Taiwan.
+  <div class="about-grid">
+    <div class="about-card">
+      <h3>Current Roles</h3>
+      <p>Research Assistant Professor at the Eastern Institute of Technology, Ningbo.</p>
+      <p>Director of AI Software Department at Tenfong Technology.</p>
+    </div>
 
-## Notable Awards and Scholarships
+    <div class="about-card">
+      <h3>Main Interests</h3>
+      <p>Aerodynamic evaluation, turbulence modeling, reduced-complexity solvers, and scientific computing.</p>
+    </div>
 
-- 2024: Winner (1/323), Rapid Aerodynamic Drag Prediction for Arbitrary 3D Vehicle Competition, IJCAI 2024.
-- 2023: CFD Best Paper Award, IMECE 2023.
-- 2023: Peking University President's Scholarship.
-- 2021: Peking University President's Scholarship.
-- 2021: Outstanding Graduate of University of Science and Technology of China.
-
-## Research Focus
-
-- Machine-learning-enabled aerodynamic evaluation for complex industrial geometries.
-- Data-enabled turbulence model development, screening, and recalibration.
-- Reduced-complexity solvers and scientific computing tools for industrial CFD.
-
-## Publications
-
-My recent work includes real-time aerodynamic evaluation, turbulence-model development with large language models, and data-enabled reduction of iterative solver cost. Please see the [publications](/publications/) page or my [Google Scholar profile](https://scholar.google.com/citations?user=czzz4XgAAAAJ&hl=en) for the full list.
-
-## Technical and Personal Skills
-
-- **Programming languages:** C, C++, Python, Fortran, Matlab.
-- **Industry software:** OpenFOAM, PointWise, SolidWorks, AutoCAD, and related CAE toolchains.
+    <div class="about-card">
+      <h3>Research Style</h3>
+      <p>Physics-informed, data-enabled, and oriented toward real engineering deployment.</p>
+    </div>
+  </div>
+</div>
