@@ -15,7 +15,7 @@ footer_text: >
   <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: yuanwei bin, fluid dynamics, aerodynamics, turbulence modeling, computational fluid dynamics, machine learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: prof_pic.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://www.ywbin.com # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -50,7 +50,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1200px
 
 # TODO: add layout settings (single page vs. multi-page)
 
