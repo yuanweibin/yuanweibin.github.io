@@ -11,7 +11,7 @@ toc:
 
 <div class="projects-overview">
 
-## Overview
+<h2 id="overview">Overview</h2>
 
 <div class="research-hero">
   <div class="research-hero-copy">
@@ -35,7 +35,7 @@ toc:
   </div>
 </div>
 
-## Real-Time Aerodynamic Evaluation
+<h2 id="real-time-aerodynamic-evaluation">Real-Time Aerodynamic Evaluation</h2>
 
 <div class="research-direction">
   <div class="research-direction-media">
@@ -65,7 +65,7 @@ toc:
   </div>
 </div>
 
-## Data-Enabled Turbulence Modeling
+<h2 id="data-enabled-turbulence-modeling">Data-Enabled Turbulence Modeling</h2>
 
 <div class="research-direction reverse">
   <div class="research-direction-media">
@@ -95,7 +95,7 @@ toc:
   </div>
 </div>
 
-## Reduced-Complexity Solvers and Industrial CFD Tools
+<h2 id="reduced-complexity-solvers-and-industrial-cfd-tools">Reduced-Complexity Solvers and Industrial CFD Tools</h2>
 
 <div class="research-direction">
   <div class="research-direction-media">
