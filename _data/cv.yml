@@ -7,58 +7,67 @@
       value: ybin@eitech.edu.cn
     - name: Website
       value: www.ywbin.com
+      links:
+        - name: visit
+          link: https://www.ywbin.com
     - name: ORCID
       value: 0000-0001-7722-7885
+      links:
+        - name: profile
+          link: https://orcid.org/0000-0001-7722-7885
 
 - title: Professional Appointments
   type: time_table
   contents:
     - title: Director of AI Software Department
       institution: Tenfong Technology Co., Ltd., Shenzhen, China
-      year: 2025 - present
+      year: 2025 - on
     - title: Research Assistant Professor
       institution: College of Engineering, Eastern Institute of Technology, Ningbo, China
-      year: 2024 - present
+      year: 2024 - on
     - title: Visiting Scholar
-      institution: "Flow Physics and Computational Research Lab (PI: Xiang I. A. Yang), The Pennsylvania State University, USA"
+      institution: "FPCRL (PI: Xiang I.A. Yang), The Pennsylvania State University, USA"
       year: 2021 - 2023
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Mechanics
-      institution: Peking University, Beijing, China
+    - title: Doctor of Philosophy degree in Mechanics
+      institution: Peking University
       year: 2019 - 2024
       description:
         - "Advisor: Yipeng Shi"
-    - title: B.Eng. in Energy Engineering
-      institution: University of Science and Technology of China, Hefei, China
+    - title: Bachelor degree in Energy Engineering
+      institution: University of Science and Technology of China
       year: 2015 - 2019
-    - title: Double Major in Computer Science
-      institution: University of Science and Technology of China, Hefei, China
+    - title: Double degree in Computer Science
+      institution: University of Science and Technology of China
       year: 2015 - 2019
     - title: Exchange Student
-      institution: National Tsing Hua University, Hsinchu, Taiwan
-      year: 2017
+      institution: National Tsing Hua University
+      year: 2017 - 2017
 
 - title: Notable Awards and Scholarships
   type: time_table
   contents:
     - year: 2024
       items:
-        - Winner (1/323), Rapid Aerodynamic Drag Prediction for Arbitrary 3D Vehicle Competition, IJCAI 2024
+        - Winner (1/323) of Rapid Aerodynamic Drag Prediction for Arbitrary 3D Vehicle Competition, IJCAI 2024
     - year: 2023
       items:
-        - CFD Best Paper Award, ASME IMECE 2023
+        - CFD Best Paper Award, IMECE 2023
         - Peking University President's Scholarship
     - year: 2021
       items:
         - Peking University President's Scholarship
-        - Outstanding Graduate, University of Science and Technology of China
+        - Outstanding Graduate of University of Science and Technology of China
 
 - title: Publications
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - "GeoFormer: Mesh-Free Geometry-to-Flow Alignment Framework for Real-Time Aerodynamics on Non-Watertight CAD. Physics of Fluids."
     - year: 2025
       items:
         - Spatially-aware transformer operator for real-time aerodynamic evaluations of arbitrary three-dimensional vehicles. Journal of Computational Physics.
@@ -83,10 +92,10 @@
       items:
         - "A new idea to predict reshocked Richtmyer-Meshkov mixing: Constrained large-eddy simulation. Journal of Fluid Mechanics."
 
-- title: Technical and Personal Skills
+- title: Technical and Personal skills
   type: map
   contents:
     - name: Programming Languages
       value: C, C++, Python, Fortran, Matlab
-    - name: Industry Software
+    - name: Industry Software Skills
       value: OpenFOAM, PointWise, SolidWorks, AutoCAD, etc.
